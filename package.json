@@ -1,0 +1,19 @@
+{
+  "name": "OpenAndroidActivity",
+  "version": "1.0.0",
+  "description": "Open new activity from plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tidehunter",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
