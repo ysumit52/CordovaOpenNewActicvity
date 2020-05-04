@@ -1,10 +1,10 @@
 # CordovaOpenNewActicvity
 To Open a new activity from ionic cordova application
 
-Call Below function from ionic ts file 
+<b>Call Below function from ionic ts file </b> 
 
-window['plugins'].newActivityPlugin.new_activity('value',function(res){
-      console.log("Response Data : "+res)
-    },function(err){
-      console.log("Response Data : "+err);
+window['plugins'].newActivityPlugin.new_activity('value',function(res){ <br>
+      console.log("Response Data : "+res) <br>
+    },function(err){ <br>
+      console.log("Response Data : "+err); <br>
     });
